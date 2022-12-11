@@ -1,7 +1,6 @@
 import { fetchPhotoApi } from './fetch-data';
 import { refs } from './refs';
 import { PER_PAGE } from './fetch-data';
-// import { notifyInfoMessage } from './notify-msg';
 import { simpleGallery } from './simple-lightbox';
 import {
   notifySuccessMessage,
